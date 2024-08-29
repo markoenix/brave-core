@@ -268,7 +268,7 @@
   "devDependencies": {
     "@babel/core": "7.16.0",
     "@babel/plugin-proposal-export-namespace-from": "7.16.0",
-    "@storybook/addon-essentials": "6.4.13",
+    "@storybook/addon-essentials": "6.5.16",
     "@storybook/addon-knobs": "6.4.0",
     "@storybook/addons": "6.4.13",
     "@storybook/react": "6.4.13",
@@ -306,7 +306,7 @@
     "eslint-plugin-promise": "5.1.1",
     "ethereum-blockies": "github:brave/blockies#07ebdfa3ed79fceec8234ef8c880ebdefd79bf0a",
     "ethereumjs-util": "7.0.9",
-    "file-loader": "1.1.11",
+    "file-loader": "6.2.0",
     "follow-redirects": "1.14.8",
     "font-awesome": "4.7.0",
     "fs-extra": "8.1.0",
@@ -314,7 +314,7 @@
     "jest": "26.6.3",
     "jest-junit": "13.0.0",
     "less": "3.13.1",
-    "less-loader": "4.1.0",
+    "less-loader": "12.2.0",
     "log-update": "3.4.0",
     "mkdirp": "0.5.5",
     "mz": "2.7.0",
@@ -334,9 +334,9 @@
     "typescript": "4.4.4",
     "typescript-plugin-css-modules": "3.4.0",
     "typescript-plugin-styled-components": "2.0.0",
-    "url-loader": "1.0.0",
-    "webpack": "4.46.0",
-    "webpack-cli": "3.3.12"
+    "url-loader": "4.1.1",
+    "webpack": "5.94.0",
+    "webpack-cli": "5.1.4"
   },
   "dependencies": {
     "@brave/react-virtualized-auto-sizer": "^1.0.4",
